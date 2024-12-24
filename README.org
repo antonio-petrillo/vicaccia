@@ -1,0 +1,16 @@
+#+title: Vicaccia 2024
+
+* Come avviare il gioco
+Se siete fortunati, basterà scaricare il repository e lanciare l'eseguibile.
+** TODO migliorare questa sezione
+Molto vago, specificare meglio:
++ evitare linguaggio tecnico (anche se c'è un informatico per team)
++ aggiungere screenshot passo passo per scaricare ed eseguire
++ specificare che l'eseguibile deve stare nell stessa cartella di *assets*
+* In caso il gioco non funziona
+1. Rivolgetevi all'informatico del gruppo
+2. Se pensa che C++ si un buon linguaggio rivolgetevi al secondo informatico del gruppo
+3. Fategli installare [[https://odin-lang.org/docs/install/][Odin]]
+4. Fategli compilare il gioco
+5. Eseguitelo
+6. Risolvete il problema in gruppo
